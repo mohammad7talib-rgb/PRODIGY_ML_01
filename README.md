@@ -83,3 +83,12 @@ The dataset includes:
 ---
 
 ## 📂 File Structure
+├── train.csv
+
+├── test.csv
+
+├── house_price_predictions.csv
+
+├── House_Price_Prediction.ipynb
+
+└── README.md
